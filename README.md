@@ -1,5 +1,5 @@
-First Name: Syeda
-Last Name: irfana
-Email ID: syedairfu.gce@gmail.com
-Github ID: 1GC24CS119
-Mobile Number: 8792803950
+First Name: Shreya
+Last Name: HJ
+Email ID: shreyahj.gce@gmail.com
+Github ID: 1GC24CS109
+Mobile Number: 9008060000
